@@ -4,7 +4,7 @@
 
 ### Created using React Native, Expo, Appwrite and Nativewind.
 
-< hr />
+<hr />
 
 #### Features: 
 
